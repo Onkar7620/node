@@ -1,5 +1,4 @@
 # Node.js
-#Edited by Onkar
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
